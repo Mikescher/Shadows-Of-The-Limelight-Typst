@@ -1,11 +1,26 @@
-Shadows of the Limelight (LyX)
+Shadows of the Limelight (Typst)
 ===============================
 
-[Shadows of the Limelight](https://alexanderwales.com/shadows-of-the-limelight-ch-1-the-rooftop-races/) LyX files
+[Shadows of the Limelight](https://alexanderwales.com/shadows-of-the-limelight-ch-1-the-rooftop-races/) Typst files
 
 ----------
 
 A PDF version of `Shadows of the Limelight` used for printing the book on [epubli.com](https://www.epubli.de/)
+
+### epubli Settings:
+
+~~~
+Titel:          Shadows of the Limelight
+Autor:          Alexander Wales
+Bindungsart:    Softcover
+Papiertyp:      90 g/m² cremeweiß, matt
+Format:         Taschenbuch
+Druck Cover:    matt
+Druck Inhalt:   schwarz/weiß
+Cover-Vorlage:  epubli Cover Grau
+Seiten:         664 (2 leere Seite(n) hinzugefügt)
+Preis:          16,85 €
+~~~
 
 ### Chapters
 ~~~
